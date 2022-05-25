@@ -1,0 +1,157 @@
+.bar 
+{   text-align: center;
+    width: 40%;
+    padding-top: 1.5em;
+    background-color:white;   
+    display: flex;
+    justify-content:center;
+   justify-content: space-around;
+    
+    margin-left :25em;
+    
+}
+.logo
+{   margin-left:8em;
+    float: left;
+     width: 17%;
+    display: flex;
+    
+
+}
+.bar a 
+{text-decoration: none;
+    color: black;
+}
+.heading
+{ font-family: "Lucida Console", "Courier New", monospace;
+    background-color: #0aaaa0;
+    color: aliceblue;
+}
+.button a { float: right;
+    background: #0aaaa0 none repeat scroll 0 0;
+    border: 1px solid #0aaaa0;
+    color: #fff;
+    font-family: "Raleway",sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    text-decoration: none;}
+    .button {
+        width: 20%;
+        float: right;
+        display: flex;
+        margin-right:0em;
+        margin-block-start: -2em;
+    }
+    .imgs
+    {
+        padding: 4em;
+    }
+    .text {
+        text-transform: uppercase;
+        color: rgb(252, 247, 247);
+        position: absolute;
+  top: 15em;
+  left: 50em;
+    }
+    .button1 {
+        
+        position: absolute;
+        top: 23em;
+        left: 57em;
+        float: right;
+        display: flex;
+        margin-right:0em;
+        margin-block-start: -2em;}
+        .button1 a { float: right;
+            text-decoration: none;
+            background: #011a18 none repeat scroll 0 0;
+            border: 1px solid #f6fafa;
+            color: #fff;
+            font-family: "Raleway",sans-serif;
+            font-size: 14px;
+            font-weight: bold;
+            padding: 10px 15px;
+            text-transform: uppercase;
+            text-decoration: none;}
+            .button2 {
+        
+                position: absolute;
+                top: 23em;
+                left: 66em;
+                float: right;
+                display: flex;
+                margin-right:0em;
+                margin-block-start: -2em;}
+                .button2 a { float: right;
+                    text-decoration: none;
+                    background: #011a18 none repeat scroll 0 0;
+                    border: 1px solid #f6fafa;
+                    color: #fff;
+                    font-family: "Raleway",sans-serif;
+                    font-size: 14px;
+                    font-weight: bold;
+                    padding: 10px 15px;
+                    text-transform: uppercase;
+                    text-decoration: none;}
+ .table, th, td {
+                        border:3px solid white;
+                      }
+
+                      .columns {
+                          padding-left: 5em;
+                        display: flex;
+                      }      
+                      .columns div {
+                        width: 50%;
+                      }           
+                      .event{
+                          text-align: center;
+                          background-color: #011a18;
+                         color: #fff;
+                         opacity: 85%;
+                         
+                      }
+
+                     .footer{
+                        background: #232323;
+                    }
+                    .left{
+                        float: left;
+                        color:white;
+                    }
+                    .center{
+                        float: center;
+                        color: #fff;
+                    }
+                    .text1{
+                        color: white;
+                    }
+                    .text2{color: #f0f0f0;
+                        float: right;
+                        position: relative;
+                        margin-block-start: -16em;
+                        margin-right: 28em;
+                    }
+                    
+                    .new{
+                        position: relative;
+    margin-block-start: -7em;
+    margin-right: 20em;
+    float: right;
+                       
+                        
+                    }
+                    .bt
+                        
+                    {
+                            margin-left: 11em;
+                            
+                            position: absolute;
+                            margin-block-start: -21px;
+                    }
+                    
+
+
+                        
